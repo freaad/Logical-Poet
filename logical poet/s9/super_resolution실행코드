@@ -1,0 +1,12 @@
+훈련
+
+python main.py --upscale_factor 3 --batchSize 4 --testBatchSize 100 --nEpochs 30 --lr 0.001
+
+
+
+
+
+
+\생성
+
+python3 super_resolve.py --cuda --input_image s.jpg --model model_epoch_30.pth --output_filename outchi.jpg
