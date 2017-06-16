@@ -14,7 +14,7 @@ IMAGE taken iPhoneSE to 4K painting sample
 
 ## Dependency
 
- Torch , Pytorch, G'MIC, UBUNTU 16.04 (UBUNTU 14.04)
+ Torch , Pytorch, G'MIC, UBUNTU 16.04 (UBUNTU 14.04), CUDA
 
 [texture_net](https://github.com/DmitryUlyanov/texture_nets)
 
@@ -37,6 +37,9 @@ sudo apt-get install gmic gimp-gmic
 ## How to Road 
 
 #### 1. making 6k painting
+
+insert images(2k sized) to /logical poet/s
+
 ```
 bash hy.sh
 ```
