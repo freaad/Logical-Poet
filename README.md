@@ -41,10 +41,19 @@ sudo apt-get install gmic gimp-gmic
 ```
 bash hy.sh
 ```
-result in /s11
+              result in /s11
 
 2. making 12k painting
 
+paste s11's 6k images to waifu2x (needed Installation) 
+
+and
+
+
+```
+bash folder.sh
+```
+(copy and paste as folder.sh to waifu2x)
 
 
 ##  examples
