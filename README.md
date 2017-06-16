@@ -72,10 +72,13 @@ bash 12kd.sh
 resulted in /s13
 
 
-#### tip
+#### tip and samples
 
 Bright and colorful images works well than less colored images by empirically.
 
+https://drive.google.com/drive/folders/0B76DD_FEKmQDM0NzUFBQNDNwMlU
+
+https://drive.google.com/drive/folders/0B76DD_FEKmQDM0NzUFBQNDNwMlU
 
 #### TO DO
 
