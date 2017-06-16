@@ -72,7 +72,18 @@ bash 12kd.sh
 resulted in /s13
 
 
-#### I'd like to more work with 12k painting images but my monitor just 4k.
+#### tip
+
+Bright and colorful images works well than less colored images by empirically.
+
+
+#### TO DO
+
+1. 12k painting enhancement 
+
+2. more general model 
+
+3. selfie model 
 
 
 ## Citation
