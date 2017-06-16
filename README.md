@@ -72,7 +72,7 @@ bash 12kd.sh
 resulted in /s13
 
 
-#### Tip and resulted samples
+## Tip and resulted samples
 
 Bright and colorful images works well than less colored images by empirically.
 
