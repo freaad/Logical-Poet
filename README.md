@@ -8,9 +8,9 @@
 </div>
 
 <div align='center'>
-  <img src='IMAGE taken iPhoneSE to 4K painting.JPG' width='3800px'>
+  <img src='IMG_0601ss.JPG' width='5760px'>
 </div>
-IMAGE taken iPhoneSE to 4K painting sample
+IMAGE taken iPhoneSE to 6K painting sample
 
 ## Dependency
 
