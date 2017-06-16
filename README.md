@@ -69,9 +69,10 @@ back to logical-poet
 ```
 bash 12kd.sh
 ```
-(resulted in s13)
+resulted in /s13
 
-#### I'd like to work with 12k images but my monitor just 4k.
+
+#### I'd like to more work with 12k painting images but my monitor just 4k.
 
 
 ## Citation
