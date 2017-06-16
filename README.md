@@ -37,7 +37,13 @@ sudo apt-get install gmic gimp-gmic
 ## Road 
 
 
-This is basically based on [texture_net](https://github.com/DmitryUlyanov/texture_nets)
+1. making 6k painting
+```
+bash hy.sh
+```
+result in /s11
+
+2. making 12k painting
 
 
 
