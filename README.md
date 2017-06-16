@@ -36,14 +36,13 @@ sudo apt-get install gmic gimp-gmic
 
 ## Road 
 
-
-1. making 6k painting
+#### 1. making 6k painting
 ```
 bash hy.sh
 ```
 (result in /s11)
 
-2. making 12k painting
+#### 2. making 12k painting
 
 paste s11's 6k images to waifu2x install folder (needed Installation) 
 
