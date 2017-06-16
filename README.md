@@ -71,7 +71,7 @@ bash 12kd.sh
 ```
 (resulted in s13)
 
-
+#### I'd like to work with 12k images but my monitor just 4k.
 
 
 ## Citation
