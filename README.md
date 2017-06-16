@@ -1,6 +1,9 @@
 # Logical-Poet
 2K image TO 12K painting.
 
+<div align='center'>
+  <img src='iPhoneSE2.JPG' width='1920px'>
+</div>
 
 <div align='center'>
   <img src='IMAGE taken iPhoneSE to 4K painting.JPG' width='3800px'>
