@@ -57,7 +57,7 @@ bash folder.sh
 
 (resulted in waifu2x/s)
 
-#### enhance 12k painting
+#### 3. enhance 12k painting
 
 copy and paste as resulted 12k to logical-poet/s12
 
