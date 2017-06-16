@@ -20,6 +20,12 @@ IMAGE taken iPhoneSE to 4K painting sample
 
 [G'MIC filter](http://gmic.eu/gimp.shtml)
 
+`sudo add-apt-repository ppa:otto-kesselgulasch/gimp-edge`
+
+`sudo apt-get update`
+
+`sudo apt-get install gmic gimp-gmic `
+
 [ImageMagick](http://www.imagemagick.org/script/index.php)
 
 [waifu2x](https://github.com/nagadomi/waifu2x)
