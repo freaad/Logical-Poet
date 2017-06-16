@@ -76,7 +76,7 @@ resulted in /s13
 
 Bright and colorful images works well than less colored images by empirically.
 
-https://drive.google.com/drive/folders/0B76DD_FEKmQDM0NzUFBQNDNwMlU
+https://drive.google.com/drive/folders/0B76DD_FEKmQDcjJsMHJzVWpqVGM
 
 https://drive.google.com/drive/folders/0B76DD_FEKmQDM0NzUFBQNDNwMlU
 
