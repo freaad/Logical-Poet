@@ -19,13 +19,13 @@ IMAGE taken iPhoneSE to 4K painting sample
 [texture_net](https://github.com/DmitryUlyanov/texture_nets)
 
 [G'MIC filter](http://gmic.eu/gimp.shtml)
+```
+sudo add-apt-repository ppa:otto-kesselgulasch/gimp-edge
 
-`sudo add-apt-repository ppa:otto-kesselgulasch/gimp-edge`
+sudo apt-get update
 
-`sudo apt-get update`
-
-`sudo apt-get install gmic gimp-gmic `
-
+sudo apt-get install gmic gimp-gmic
+```
 [ImageMagick](http://www.imagemagick.org/script/index.php)
 
 [waifu2x](https://github.com/nagadomi/waifu2x)
@@ -34,7 +34,7 @@ IMAGE taken iPhoneSE to 4K painting sample
 
 
 
-## Introduction
+## Road 
 
 
 This is basically based on [texture_net](https://github.com/DmitryUlyanov/texture_nets)
