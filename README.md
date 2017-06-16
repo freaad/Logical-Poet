@@ -34,13 +34,13 @@ sudo apt-get install gmic gimp-gmic
 
 
 
-## Road 
+## How to Road 
 
 #### 1. making 6k painting
 ```
 bash hy.sh
 ```
-(result in /s11)
+(resulted in /s11)
 
 #### 2. making 12k painting
 
@@ -55,35 +55,21 @@ bash folder.sh
 ```
 (copy and paste as folder.sh to waifu2x folder)
 
-(result in waifu2x/s)
+(resulted in waifu2x/s)
+
+#### enhance 12k painting
+
+copy and paste as resulted 12k to logical-poet/s12
+
+back to logical-poet
+
+```
+bash 12kd.sh
+```
+(resulted in s13)
 
 
-##  examples
 
-tested in 1600 * 896 using GTX1080 and c920r
-
-
-
-## Usage (2.CameraTesting)
-
-dependency
-
-`luarocks install camera`
-
-`luarocks install qtlua`
-
-RUN
-
-`qlua camtest.lua -model_t7 data/frog.t7`
-
-## Attributions/Thanks
-
-DmitryUlyanov's [texture_net](https://github.com/DmitryUlyanov/texture_nets) and Justin Johnson's [Fast Neural Style](https://github.com/jcjohnson/fast-neural-style)
-
-
-## frog painting
-
-Frog.jpg is my daughter's piece in 2017.
 
 ## Citation
 
